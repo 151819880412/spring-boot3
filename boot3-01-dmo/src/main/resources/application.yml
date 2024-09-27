@@ -10,7 +10,7 @@
 #    使用 ---可以把多个yaml文档合并在一个文档中，每个文档区依然认为内容独立
 ---
 server:
-  port: 9999
+  port: 9001
 spring:
   servlet:
     multipart:
